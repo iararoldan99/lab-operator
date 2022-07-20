@@ -1,0 +1,32 @@
+.main-section {
+    padding: 4rem;
+    background: #fff;
+}
+
+h1 {
+    color: #001858;
+    margin-top: 40px;
+    margin-bottom: 60px;
+}
+
+.main-section p {
+    margin-top: 20px;
+    width: 50%;
+    font-size: 20px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+ul li {
+    margin: 0 auto;
+    width: 50%;
+}
+
+h2 {
+    color: #faae2b;
+    margin: 0 auto;
+    text-align: center;
+    width: 50%;
+    margin-top: 40px;
+    margin-bottom: 60px;
+}
