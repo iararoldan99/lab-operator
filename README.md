@@ -1,4 +1,4 @@
-# lab-operator-twin landing page! made with ❤️ 
+# lab-operator website! for science workers made with ❤️ 
 
 ![Alt Text](https://github.com/iararoldan99/lab-operator-twin/blob/main/lab-operator/public/gif/chrome-capture-2022-6-20.gif)
 
